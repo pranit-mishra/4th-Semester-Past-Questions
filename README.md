@@ -1,12 +1,11 @@
-# 4th-Semester-Past-Questions
-4th Semester Computer Engineering past papers for Pokhara University students.
-# 📚 4th Semester Past Year Questions
+
+#  4th Semester Past Year Questions
 
 A curated collection of **Pokhara University Computer Engineering 4th Semester** past year examination papers. This repository is intended to help students prepare for exams by providing easy access to previous question papers.
 
 ---
 
-## 📖 Subjects
+##  Subjects
 
 - 🔹 Applied Mathematics (AM)
 - 🔹 Theory of Computation (TOC)
@@ -17,7 +16,7 @@ A curated collection of **Pokhara University Computer Engineering 4th Semester**
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -33,7 +32,7 @@ Each subject folder contains past year question papers organized by examination 
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 - Help students prepare for semester examinations.
 - Preserve previous examination papers in one place.
@@ -42,7 +41,7 @@ Each subject folder contains past year question papers organized by examination 
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 If you have question papers that are not available in this repository or have better-quality scans, feel free to:
 
